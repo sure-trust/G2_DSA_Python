@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: LINKEDLIST,STACK,QUEUE,RECURSION,BINARY TREE     | [CLICK HERE]( https://github.com/3bindu/G2_DSA_Python/tree/main/Final%20Capstone%20Project/Bindu)                       |
-| Final Project: CASHFLOW MINIMIZER     | [CLICK HERE](https://github.com/3bindu/G2_DSA_Python/tree/main/Mini%20Projects/Bindu)                         |
+| Mini Projects: LINKEDLIST,STACK,QUEUE,RECURSION,BINARY TREE     | [CLICK HERE](https://github.com/3bindu/G2_DSA_Python/tree/main/Mini%20Projects/Bindu)                       |
+| Final Project: CASHFLOW MINIMIZER     | [CLICK HERE](https://github.com/3bindu/G2_DSA_Python/tree/main/Final%20Capstone%20Project/Bindu)                         |
