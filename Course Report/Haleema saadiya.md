@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [mini project]  [click here](https://github.com/Haleemasaadiya/G2_DSA_Python/tree/main/Mini%20Projects/saadiya%20shaik/mini%20project)                | 
-| Final Project: [SECRET MESSAGE ENCRYPTION AND DECRYPTION TOOL]     | [click here](https://github.com/Haleemasaadiya/G2_DSA_Python/blob/main/Final%20Capstone%20Project/saadiya%20shaik/msg.py)                        |
+| Mini Projects: [mini project]  [click here](https://github.com/sure-trust/G2_DSA_Python/tree/main/Mini%20Projects/saadiya%20shaik/mini%20project)                | 
+| Final Project: [SECRET MESSAGE ENCRYPTION AND DECRYPTION TOOL]     | [click here](https://github.com/sure-trust/G2_DSA_Python/tree/main/Final%20Capstone%20Project/saadiya%20shaik)                |
