@@ -21,7 +21,15 @@ To enroll in the Robotics, please visit the official SURE Trust website: [Course
 
 |StudentName | link|
 |------------|------|
-|PRAYATHNA|[Click here](https://github.com/sure-trust/G2_Robotics/blob/main/Course%20Report/prayathna%20royal.md)|
+|Bindu|[Click here](https://github.com/sure-trust/G2_DSA_Python/blob/main/Course%20Report/BINDU.md)|
+|Saadiya|[Click here](https://github.com/sure-trust/G2_DSA_Python/blob/main/Course%20Report/Haleema%20saadiya.md)|
+|Harsha Vardhan|[Click here](https://github.com/sure-trust/G2_DSA_Python/blob/main/Course%20Report/Harsha%20Vardhan.md)|
+|Hemalatha|[Click here](https://github.com/sure-trust/G2_DSA_Python/blob/main/Course%20Report/Hemalatha.md)|
+|Lakshmi Prasad|[Click here](https://github.com/sure-trust/G2_DSA_Python/blob/main/Course%20Report/Lakshmiprasad.md)|
+|Munidhar|[Click here](https://github.com/sure-trust/G2_DSA_Python/blob/main/Course%20Report/Munidhar.md)|
+|Nirosha|[Click here](https://github.com/sure-trust/G2_DSA_Python/blob/main/Course%20Report/Nirosha.md)|
+|Likitha|[Click here](https://github.com/sure-trust/G2_DSA_Python/blob/main/Course%20Report/likhitha.md)|
+|Snehalatha|[Click here](https://github.com/sure-trust/G2_DSA_Python/blob/main/Course%20Report/snehalathacherlopalli.md)|
 
 ## Repository Description
 
