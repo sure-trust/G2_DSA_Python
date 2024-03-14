@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: LINKEDLIST,STACK,QUEUE,RECURSION,BINARY TREE     | [CLICK HERE](https://github.com/MuchuguttuNirosha1/G2_DSA_Python/tree/main/Mini%20Projects/Nirosha)                        |
-| Final Project: SNACK GAME     | [CLICK HERE](https://github.com/MuchuguttuNirosha1/G2_DSA_Python/tree/main/Final%20Capstone%20Project/Nirosha)                         |
+| Mini Projects: LINKEDLIST,STACK,QUEUE,RECURSION,BINARY TREE     | [CLICK HERE](https://github.com/sure-trust/G2_DSA_Python/tree/main/Mini%20Projects/Nirosha)                        |
+| Final Project: SNAKE GAME     | [CLICK HERE](https://github.com/sure-trust/G2_DSA_Python/tree/main/Final%20Capstone%20Project/Nirosha)                         |
