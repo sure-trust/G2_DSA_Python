@@ -15,7 +15,7 @@
 
 ## Qualifications: pursuing 3rd year of B.Tech
 
-Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the Data Structures & Algorithms in Python ! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
